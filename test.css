@@ -1,0 +1,71 @@
+#content-visuals{
+    width: 1180px;
+    height: 800px;
+    padding: 30px;
+    background-color: #147830;
+}
+
+#heading-text{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: royalblue;
+    position: relative;
+    top: 1px;
+    font-size: 50px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.option-tab{
+    position: absolute;
+    top: 70px;
+    right: 45px;
+    padding: 15px 15px;
+    background-color: #5c0d0d;
+    border-radius: 10px;
+}
+
+.page-body{
+    text-align: center;
+    padding: 50px;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    position: relative;
+
+}
+
+#all-courses{
+    font-size: 24px;
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: red;
+}
+
+.course{
+    background-color: #d4b32186;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+p.course-outline{
+    color: purple;
+    font-size: 16px;
+    opacity: 0.7;
+}
+
+.course:hover{
+    transform: translateY(-5px);
+}
+
+footer{
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+    color: rgb(153, 177, 155);
+}
